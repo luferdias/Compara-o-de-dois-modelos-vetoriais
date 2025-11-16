@@ -1,0 +1,6 @@
+numpy>=1.21.0
+matplotlib>=3.4.0
+scikit-learn>=1.0.0
+gensim>=4.3.0
+fpdf2>=2.7.0
+pillow>=9.0.0
